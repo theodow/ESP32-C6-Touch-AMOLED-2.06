@@ -1,0 +1,5 @@
+numpy>=1.24
+paho-mqtt>=2.0
+# tests only
+pytest>=7
+amqtt>=0.11
